@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Nadiana2</string>
+    <string name="app_name">NewApp</string>
+    <string name="NewnameApp">NewNameApp</string>
 </resources>
